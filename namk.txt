@@ -1,1 +1,1 @@
-{"fiwu1.argadm.cccc":"fiwu2.argadm.cc"}
+{"fiwu1.argadm.cc":"fiwu2.argadm.cc"}
