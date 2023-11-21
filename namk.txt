@@ -1,1 +1,1 @@
-{"http://fiwu1.argadm.cc":"http://fiwu2.argadm.cc","ws://fiwu.argadm.cc:8282":"ws://fiwu2.argadm.cc:8282"}
+{"fiwu1.argadm.cc":"fiwu2.argadm.cc"}
