@@ -2,5 +2,6 @@
     "fiwu1.argadm.cc":"fiwu2.argadm.ca",
     "fiwu2.argadm.cc":"fiwu2.argadm.ca",
     "fiwu2.argadm.ca":"fiwu3.argadm.cc",
-    "fiwu3.argadm.cc":"fiwu2.argadm.caaaa"
+    "fiwu3.argadm.cc":"fiwu2.argadm.caaaa",
+    "fiwu2.argadm.caaaa":"fiwu2.argadm.cc"
 }
